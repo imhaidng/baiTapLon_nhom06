@@ -1,0 +1,6 @@
+Danh sách thành viên nhóm 06
+Môn: Phát triển ứng dụng Web - nhóm: 02
+Trang Web thegioididong.
+- Nguyễn Tiến Đạt_2021050178: back-end.
+- Nguyễn Xuân Đạt: front-end + trang quản trị sản phẩm. 
+- Hoàng Hải Đăng: front-end + trang quản trị danh mục + index.
